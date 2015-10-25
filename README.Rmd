@@ -143,6 +143,8 @@ pdf("accelerometer.pdf", w = 15, h = 12)
 gg
 dev.off()
 ```
+
+![](https://github.com/alanmarazzi/gettingandcleaningdata/raw/master/accelerometer.pdf)
 &nbsp;  
 &nbsp;  
 
