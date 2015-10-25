@@ -148,7 +148,7 @@ dev.off()
 &nbsp;  
 &nbsp;  
 
-## After running the script you will found 2 new files in your working directory: the tidy dataset in a txt file, and a pdf of the plot.
+## After running the script you will find 2 new files in your working directory: the tidy dataset in a txt file, and a pdf of the plot.
 &nbsp;  
 &nbsp;  
 &nbsp;  
